@@ -1,0 +1,25 @@
+{
+    "version": 3,
+    "mappings": "AYAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/abstract/_functions.scss",
+        "../scss/abstract/_mixins.scss",
+        "../scss/abstract/_placeholders.scss",
+        "../scss/abstract/_variables.scss",
+        "../scss/base/_base.scss",
+        "../scss/base/_reset.scss",
+        "../scss/base/_typography.scss",
+        "../scss/components/_buttons.scss",
+        "../scss/components/_carousel.scss",
+        "../scss/layout/_layout.scss",
+        "../scss/layout/_footer.scss",
+        "../scss/layout/_forms.scss",
+        "../scss/layout/_header.scss",
+        "../scss/layout/_main.scss",
+        "../scss/layout/_nav.scss",
+        "../scss/pages/_home.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
