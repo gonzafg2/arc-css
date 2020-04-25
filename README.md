@@ -3,12 +3,18 @@
 ### Estructura HTML5
 
 * Se utiliza el método 7 x 1 para organizar el código CSS.
-   * #### Abstract: 
-      Contiene archivos .scss que no son convertidos a .css, sólo se importan a otro archivo .scss. Contiene código como variables SASS, mixins y funciones.
+   * <strong><u>Abstract:</u></strong> Contiene archivos .scss que no son convertidos a .css, sólo se importan a otro archivo .scss. Contiene código como variables SASS, mixins y funciones.
       * _functions.scss
       * _mixins.scss
       * _placeholders.scss
       * _variables.scss
+
+
+   *  <strong><u>Base:</u></strong> Contiene archivos .scss para importar a style.scss. Contiene código para estilos de etiquetas HTML como p, a, body, etc. La tipografía puede ir en esta sección, así como también el archivo reset para restablecer los estilos del navegador.
+      *  _animation.scss
+      *  _base.scss
+      *  _reset.scss
+      *  _typography.scss
 
 * Utilizamos SASS como pre-procesador.
 
