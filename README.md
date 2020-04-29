@@ -16,6 +16,10 @@
       *  _reset.scss
       *  _typography.scss
 
+   * <strong><u>Componentes:</u></strong> Contiene archivos .scss para importar a style.scss. Contiene código para estilos de componentes separados e individuales del layout, como botones y carrusel.
+     * _buttons.scss
+     * _carousel.scss
+
 * Utilizamos SASS como pre-procesador.
 
 * Estructura base HTML5
