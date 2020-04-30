@@ -10,15 +10,23 @@
       * _variables.scss
 
 
-   *  <strong><u>Base:</u></strong> Contiene archivos .scss para importar a style.scss. Contiene código para estilos de etiquetas HTML como p, a, body, etc. La tipografía puede ir en esta sección, así como también el archivo reset para restablecer los estilos del navegador.
+   *  <strong><u>Base:</u></strong> Contiene archivos .scss (_base.scss) para importar a style.scss. Contiene código para estilos de etiquetas HTML como p, a, body, etc. La tipografía puede ir en esta sección, así como también el archivo reset para restablecer los estilos del navegador.
       *  _animation.scss
-      *  _base.scss
+      *  <strong>_base.scss</strong>
       *  _reset.scss
       *  _typography.scss
 
    * <strong><u>Componentes:</u></strong> Contiene archivos .scss para importar a style.scss. Contiene código para estilos de componentes separados e individuales del layout, como botones y carrusel.
      * _buttons.scss
      * _carousel.scss
+   
+   * <strong><u>Layout:</u></strong> Contiene archivos .scss (_layout.scss) para importar a styles.scss. Contiene código para estilos de layout de HTML, como Footer, Header, Main, Nav, etc.
+     *  _footer.scss
+     *  _forms.scss
+     *  _header.scss
+     *  <strong>_layout.scss</strong>
+     *  _main.scss
+     *  _nav.scss
 
 * Utilizamos SASS como pre-procesador.
 
