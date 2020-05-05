@@ -27,6 +27,9 @@
      *  <strong>_layout.scss</strong>
      *  _main.scss
      *  _nav.scss
+   * <strong><u>Pages:</u></strong> Contiene archivos .scss (_pages.scss) para importar styles.scss. Contiene código para estilos de páginas, como por ejemplo, home (_home.scss).
+     *  _home.scss
+     *  <strong>_pages.scss</strong> 
 
 * Utilizamos SASS como pre-procesador.
 
